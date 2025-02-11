@@ -36,7 +36,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket) -->
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Prisma](https://img.shields.io/badge/prisma)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 
   
 
