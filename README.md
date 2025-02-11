@@ -25,7 +25,6 @@
   ![Next](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=materialui)
-  ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
   
 - 🛢 &nbsp;
