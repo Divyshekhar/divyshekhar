@@ -22,6 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/next.js-333333?style=for-the-badge&logo=nextdotjs)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=materialui)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
