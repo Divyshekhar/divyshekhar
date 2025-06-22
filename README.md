@@ -19,24 +19,29 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs)
+  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=materialui)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui)
 
   
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
 
 
   
