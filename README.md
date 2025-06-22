@@ -27,15 +27,13 @@
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
-  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui)
+      ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+      ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui)
 
-  
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
