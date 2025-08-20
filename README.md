@@ -71,10 +71,6 @@
 </p>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Divyshekhar/count.svg" />
-</p>
 
 
 <div align="center">
