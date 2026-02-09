@@ -5,7 +5,7 @@
  🎓 &nbsp; B.Tech in Computer Science and Engineering from KIIT, Bhubaneshwar.<br>
  🌱 &nbsp; Learning more about Full Stack Development.<br>
  ✉️ &nbsp;Email me at <a href="mailto:divyshekhar2204@gmail..com" target="_blank">divyshekhar2204@gmail.com</a>. I'll get back to you ASAP!<br>
- 📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/14HQDggC0WgFIg9nsLkOKMU2IUHSv1PYhvxQpnoZf_bQ/edit?usp=sharing" target="_blank">resume</a> for more details about me.<br>
+ 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1hmMPM5wtjerXVCpFcsKxU1QweE2IEuXV/view?usp=sharing" target="_blank">resume</a> for more details about me.<br>
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
